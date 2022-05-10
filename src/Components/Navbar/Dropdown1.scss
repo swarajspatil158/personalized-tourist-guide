@@ -1,0 +1,13 @@
+.drop-down {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+  height: auto;
+  background-color: rgb(187, 186, 186);
+  position: absolute;
+  left: 0;
+  top: 60px;
+  z-index: 100;
+}

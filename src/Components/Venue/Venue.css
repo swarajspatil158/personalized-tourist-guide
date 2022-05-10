@@ -1,0 +1,16 @@
+.card {
+  cursor: pointer;
+  min-width: 10vh;
+  min-height: 100px;
+  max-width: 150%;
+  max-height: 100%;
+}
+.card-header {
+  background-color: #ffb5b5;
+  color: #132743;
+  font-weight: 600;
+  text-overflow: ellipsis;
+  background-position: right center;
+  background-repeat: no-repeat;
+  cursor: pointer;
+}
